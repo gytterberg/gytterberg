@@ -5,3 +5,5 @@
  * [PBNGen](https://github.com/gytterberg/pbngen) - A "paint by numbers" image generator. Upload a photo and convert it to a black and white drawing that you can print out and paint! Uses React, OpenCV computer vision library, and image processing techniques. Originally a 3 day hackathon style project, now fleshed out with more features.
  * [Ytterblog](https://github.com/gytterberg/ytterblog-v2) - A simple blogging app, using React, Redux, Express, Sequelize and PostgreSQL. Content (perpetually) coming soon!
  * [Str8Shot](https://github.com/FSA-Capstone-Team-3/str8shot) - A group project with 3 others exploring geospatial data and mapping, as well as using the Yelp Fusion API.
+
+  Check out my full CV on [LinkedIn](https://www.linkedin.com/in/gytterberg/) or shoot me an email at gytterberg@gmail.com.
